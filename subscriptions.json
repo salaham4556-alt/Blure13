@@ -1,0 +1,26 @@
+[
+  {
+    "plan": "free",
+    "price": 0,
+    "max_products_per_day": 1,
+    "promotions": 0,
+    "verified_badge": false,
+    "priority_search": false
+  },
+  {
+    "plan": "standard",
+    "price": 29,
+    "max_products_per_day": 3,
+    "promotions": 1,
+    "verified_badge": false,
+    "priority_search": false
+  },
+  {
+    "plan": "premium",
+    "price": 399,
+    "max_products_per_day": "unlimited",
+    "promotions": 6,
+    "verified_badge": true,
+    "priority_search": true
+  }
+]

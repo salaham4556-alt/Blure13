@@ -1,0 +1,32 @@
+[
+  {
+    "id": "prod_101",
+    "seller_id": "user_1",
+    "title": "هاتف ذكي",
+    "description": "هاتف ذكي مع كاميرا عالية الجودة",
+    "price": 300,
+    "type": "physical",
+    "deliverable": true,
+    "serial": "PR-1a2b3c4d"
+  },
+  {
+    "id": "prod_102",
+    "seller_id": "user_1",
+    "title": "كورس برمجة",
+    "description": "كورس رقمي لتعلم بايثون",
+    "price": 50,
+    "type": "digital",
+    "deliverable": false,
+    "serial": "PR-5e6f7g8h"
+  },
+  {
+    "id": "prod_103",
+    "seller_id": "user_4",
+    "title": "كتاب تطوير الذات",
+    "description": "نسخة ورقية من كتاب تطوير الذات",
+    "price": 20,
+    "type": "physical",
+    "deliverable": true,
+    "serial": "PR-9i0j1k2l"
+  }
+]

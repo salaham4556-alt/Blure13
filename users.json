@@ -1,0 +1,38 @@
+[
+  {
+    "id": "user_1",
+    "username": "Ali",
+    "type": "seller",
+    "status": "approved",
+    "store_slug": "ali_store",
+    "subscription_plan": "premium",
+    "cities": ["Casablanca","Rabat"],
+    "rating": 5
+  },
+  {
+    "id": "user_2",
+    "username": "Sara",
+    "type": "delivery",
+    "status": "approved",
+    "store_slug": "sara_delivery",
+    "cities": ["Marrakech","Fes"],
+    "subscription_plan": "standard",
+    "working_hours": "9:00-18:00"
+  },
+  {
+    "id": "user_3",
+    "username": "Khalid",
+    "type": "customer",
+    "status": "active"
+  },
+  {
+    "id": "user_4",
+    "username": "Fatima",
+    "type": "seller",
+    "status": "pending",
+    "store_slug": "fatima_store",
+    "subscription_plan": "free",
+    "cities": ["Agadir"],
+    "rating": 0
+  }
+]

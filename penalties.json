@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": "user_2",
+    "type": "delivery_mismatch_city",
+    "description": "قام بالتوصيل خارج المدن المحددة",
+    "warnings": 1,
+    "suspended_days": 3
+  },
+  {
+    "user_id": "user_1",
+    "type": "non_delivery",
+    "description": "البائع لم يسلم المنتج للزبون",
+    "warnings": 3,
+    "police_reported": true
+  }
+]
