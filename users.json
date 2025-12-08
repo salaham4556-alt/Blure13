@@ -60,5 +60,14 @@
     "store_slug": null,
     "cities": [],
     "subscription_plan": "free"
+  },
+  {
+    "id": "user_9",
+    "username": "saad elomortaji ",
+    "type": "customer",
+    "status": "active",
+    "store_slug": null,
+    "cities": [],
+    "subscription_plan": "free"
   }
 ]
